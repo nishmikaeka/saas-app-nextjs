@@ -7,4 +7,4 @@ const CompanionsLibrary = () => {
   )
 }
 
-export default page
+export default CompanionsLibrary
