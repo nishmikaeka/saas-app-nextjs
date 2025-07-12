@@ -14,7 +14,7 @@ const CompanionSession = async({params}:CompanionSessionPageProps) => {
   const {id}=await params;
   const companion=await getCompanion(id)
   const user=await currentUser();
-   const {subject,name,topic,duration}=companion;
+  const {subject,name,topic,duration}=companion;
   
   if (!user) {
     redirect("/sign-in"); // server-side redirect
