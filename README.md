@@ -36,12 +36,20 @@ Converso is a powerful **AI learning platform** where users can create custom co
 
 Thanks to the amazing libraries and platforms powering Converso:
 
--\*\*Supabase
+- **Supabase**
 
--\*\*Clerk
+- **Clerk**
 
--\*\*Tailwind CSS
+- **Tailwind CSS**
 
--\*\*shadcn/ui
+- **shadcn/ui**
 
--\*\*Vapi
+- **Vapi**
+
+---
+
+## Preview
+
+![Screenshots](./public/images/demo1.png)
+![Screenshots](./public/images/demo2.png)
+![Screenshots](./public/images/demo3.png)
