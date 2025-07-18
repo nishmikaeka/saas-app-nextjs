@@ -2,7 +2,7 @@
 
 Converso is a powerful **AI learning platform** where users can create custom companions and engage in interactive learning conversations. It’s built with modern tools like **Next.js**, **Supabase**, **Clerk**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui**.
 
-![Converso Screenshot](./public/images/demo.png)
+![Converso Screenshot](./public/images/demo3.png)
 
 ---
 
@@ -50,6 +50,6 @@ Thanks to the amazing libraries and platforms powering Converso:
 
 ## Preview
 
+![Screenshots](./public/images/demo.png)
 ![Screenshots](./public/images/demo1.png)
 ![Screenshots](./public/images/demo2.png)
-![Screenshots](./public/images/demo3.png)
