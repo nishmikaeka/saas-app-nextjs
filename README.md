@@ -1,4 +1,4 @@
-# 🧠 Converso – AI-Powered Learning Companion
+# Converso – AI-Powered Learning Companion
 
 Converso is a powerful **AI learning platform** where users can create custom companions and engage in interactive learning conversations. It’s built with modern tools like **Next.js**, **Supabase**, **Clerk**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui**.
 
